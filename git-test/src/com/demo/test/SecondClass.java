@@ -24,11 +24,12 @@ public class SecondClass {
         t++;
         System.out.println(t);
     }
+    public void  test88(){
 
+    }
     public void test99(){
         int t = 0;
         t++;
         System.out.println(t);
     }
-
 }
