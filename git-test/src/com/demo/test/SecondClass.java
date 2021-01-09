@@ -25,12 +25,4 @@ public class SecondClass {
         System.out.println(t);
     }
 
-
-    public void test3(){
-
-    }
-
-    public void test8(){
-
-    }
 }
