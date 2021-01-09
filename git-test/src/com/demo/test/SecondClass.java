@@ -25,9 +25,8 @@ public class SecondClass {
         System.out.println(t);
     }
 
-    public void test05(){
-        int t = 0;
-        t++;
-        System.out.println(t);
+
+    public void test3(){
+
     }
 }
