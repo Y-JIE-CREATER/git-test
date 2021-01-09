@@ -25,4 +25,8 @@ public class SecondClass {
         System.out.println(t);
     }
 
+    public void  test88(){
+
+    }
+
 }
