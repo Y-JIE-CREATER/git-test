@@ -29,4 +29,8 @@ public class SecondClass {
     public void test3(){
 
     }
+
+    public void test8(){
+
+    }
 }
