@@ -19,4 +19,9 @@ public class SecondClass {
         t++;
         System.out.println(t);
     }
+    public void test03(){
+        int t = 0;
+        t++;
+        System.out.println(t);
+    }
 }
