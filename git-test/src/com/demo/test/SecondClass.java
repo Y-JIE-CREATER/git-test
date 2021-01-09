@@ -19,7 +19,13 @@ public class SecondClass {
         t++;
         System.out.println(t);
     }
-    public void test03(){
+    public void test04(){
+        int t = 0;
+        t++;
+        System.out.println(t);
+    }
+
+    public void test05(){
         int t = 0;
         t++;
         System.out.println(t);
